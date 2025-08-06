@@ -1,77 +1,98 @@
-<p align="center">
-  <img src="/images/header-background.png" alt="Muhammad Faizan Header" width="900"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi there 👋, < devs /></h1>
+# Hey 👋 What's Up?
+
+### I'm a passionate Full Stack Developer building robust and beautiful web applications.
+
+---
+
+## 🚀 My Core Tech Stack
 
 <p align="center">
-  My name is Muhammad Faizan. A passionate developer from India. My main areas of interest are web and mobile development. Right now, I'm learning Flutter. Aside from this, I also do graphic design. In my spare time, I enjoy playing chess and reading.
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="Storybook logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="Rust logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS logo" />
 </p>
 
 ---
 
-<h2 align="center">Tech Stack</h2>
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45"/>
-  <!-- Additional icons from image: -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="iOS" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="45" height="45"/>
-  <!-- Note: 'AI' and 'Data Structures' are concepts/libraries without standard Devicons. -->
-</p>
-
----
-
-<h2 align="center">Statistics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Abdul Rahman's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
-
----
-
-<p align="center">With ❤️ from India</p>
-
-<p align="center">
-  <a href="https://github.com/yourusername" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
-  <a href="https://www.reddit.com/user/yourusername" target="_blank">
-    <img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  <img width="10" />
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
   </a>
-  <a href="https://lichess.org/@/yourusername" target="_blank">
-    <img alt="Lichess" src="https://img.shields.io/badge/Lichess-000000?style=for-the-badge&logo=lichess&logoColor=white" />
+  <img width="10" />
+  <a href="https://discord.com/users/yourdiscordid" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo" />
+  </a>
+  <img width="10" />
+  <a href="https://twitch.tv/yourusername" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitch logo" />
+  </a>
+  <img width="10" />
+  <a href="https://dev.to/yourusername" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dev.to logo" />
   </a>
 </p>
+
+---
+
+## 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak Stats" />
+  <img width="20" />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="GitHub Profile Trophies" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+---
+
+</div>
+
+**How to use this in your `README.md`:**
+
+1.  **Copy and Paste:** Simply copy the entire code block above and paste it directly into your `README.md` file.
+2.  **Customize Placeholders:**
+    *   Replace `yourusername` in the social media links (`linkedin.com/in/yourusername`, `twitter.com/yourusername`, `dev.to/yourusername`, `twitch.tv/yourusername`) with your actual usernames.
+    *   Replace `yourdiscordid` with your Discord ID or invite link.
+    *   Update the `user=` parameter in the GitHub stats URLs (`streak-stats.demolab.com` and `github-profile-trophy.vercel.app`) with your GitHub username.
+    *   If you have a different source for your Pac-Man contribution graph, update that URL as well.
+
+This structure uses `div align="center"` for overall centering, `h1`, `h3`, and `h2` for clear headings, and `<p>` tags with `img` elements for the icons and badges, maintaining the format you prefer while giving it a more organized and appealing look.
+
+<Actions>
+  <Action name="Add a 'Featured Projects' section" description="Create a section to highlight your key projects with descriptions and links." />
+  <Action name="Include a 'Contact Me' section" description="Add a dedicated section for contact information or a contact form link." />
+  <Action name="Add more skill icons" description="Expand the 'My Tech Stack' section with additional technologies you use." />
+  <Action name="Change GitHub stats theme" description="Explore different themes for your GitHub streak and trophy stats." />
+</Actions>
+
