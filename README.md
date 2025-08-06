@@ -6,7 +6,7 @@
   Abdul Rahman k
 </div>
 <div style="position: relative; top: -150px; color: #A0A0A0; font-size: 1.2em; text-shadow: 1px 1px 3px rgba(0,0,0,0.7);">
-  <p><img src="https://skillicons.dev/icons?i=github" height="22" alt="GitHub icon" style="vertical-align: middle; margin-right: 8px;" /> github.com/yourusername</p>
+  <p><img src="https://skillicons.dev/icons?i=github" height="22" alt="GitHub icon" style="vertical-align: middle; margin-right: 8px;" /> github.com/[Abdul Rahman k](https://github.com/Abdu12384)</p>
   <p><img src="https://skillicons.dev/icons?i=linkedin" height="22" alt="LinkedIn icon" style="vertical-align: middle; margin-right: 8px;" /> linkedin.com/in/https://www.linkedin.com/in/abdul-rahman-k-01aa042b6/</p>
 </div>
 <br><br><br> <!-- Adjust spacing as needed -->
