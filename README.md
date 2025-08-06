@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdul Rahman
 
-<!--
-**Abdu12384/Abdu12384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Web Developer | JavaScript | Node.js | MongoDB  
+🎯 Passionate about building real-world web applications
 
-Here are some ideas to get you started:
+## 🛠️ Technologies I Work With:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📘 Projects
+- 📁 [User Authentication System](https://github.com/yourusername/auth-system)
+- 📁 [Blog Website with EJS](https://github.com/yourusername/blog-ejs)
+
+## 🔗 Connect with Me
+<p>
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
+  </a>
+</p>
