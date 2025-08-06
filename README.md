@@ -34,7 +34,7 @@
 <h1 style="font-size: 3.8em; color: #61DAFB; text-shadow: 2px 2px 5px rgba(0,0,0,0.5); margin-bottom: 10px;">Greetings, Fellow Devs! 👋</h1>
 <h3 style="font-size: 1.6em; color: #A0A0A0; margin-top: -10px; margin-bottom: 30px;">Crafting seamless digital experiences with the MERN stack.</h3>
 <p style="font-size: 1.15em; max-width: 750px; margin: 0 auto 50px auto; color: #E0E0E0; line-height: 1.6;">
-  I'm <strong>[Your Name]</strong>, a dedicated Full Stack MERN Developer from [Your Country], passionate about bringing ideas to life through robust and intuitive web applications. My journey revolves around building scalable solutions that make an impact. Currently, I'm diving deep into <strong>[New Technology/Skill]</strong> to expand my horizons and master new paradigms. When I'm not coding, you'll find me [Other Hobbies/Interests] or enjoying a good game of [Hobbies].
+  I'm <strong>Abdul Rahman k</strong>, a dedicated Full Stack MERN Developer, passionate about bringing ideas to life through robust and intuitive web applications. My journey revolves around building scalable solutions that make an impact.
 </p>
 
 ---
@@ -103,6 +103,6 @@
 
 ---
 
-<h3 style="color: #F0F0F0; margin-top: 40px; text-shadow: 1px 1px 3px rgba(0,0,0,0.4);">Made with ✨ and ❤️ from [Your Country]</h3>
+<h3 style="color: #F0F0F0; margin-top: 40px; text-shadow: 1px 1px 3px rgba(0,0,0,0.4);">Made with ✨</h3>
 
 </div>
